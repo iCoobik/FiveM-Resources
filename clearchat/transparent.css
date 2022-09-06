@@ -1,0 +1,3 @@
+.chat-window, .chat-input > div.input {
+    background-color: transparent !important;
+}
